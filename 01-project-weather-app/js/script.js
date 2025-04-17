@@ -49,3 +49,10 @@ searchBtn.addEventListener("click", () => {
 document.addEventListener("DOMContentLoaded", () => {
     checkWeather("new york");
   });
+
+  document.addEventListener("keydown", function(event) {
+    if (event.key === "Enter") {
+      event.preventDefault();
+      document.querySelector("button").click();
+    }
+  });
