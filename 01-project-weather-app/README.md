@@ -24,5 +24,3 @@ You can check the temperature, humidity, and wind speed of any location using li
 -JavaScript
 -Weather API 
 
-📸 Preview
-Add a screenshot here if you have one.
