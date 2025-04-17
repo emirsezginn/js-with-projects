@@ -19,13 +19,10 @@ You can check the temperature, humidity, and wind speed of any location using li
 🔍 Easy-to-use search functionality
 
 🛠️ Technologies Used
-HTML
-
-CSS
-
-JavaScript
-
-Weather API 
+-HTML
+-CSS
+-JavaScript
+-Weather API 
 
 📸 Preview
 Add a screenshot here if you have one.
