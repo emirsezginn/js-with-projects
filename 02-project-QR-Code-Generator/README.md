@@ -1,7 +1,7 @@
 <h1 align="center">
 🤖QR CODE GENERATOR🚀
 </h1>
-<p align="center">Live: (https://es-qr-code-generator.netlify.app/)</p>
+<p align="center">Live: (https://es-qr-code-generatorr.netlify.app/)</p>
 
 ![image](https://github.com/user-attachments/assets/9d29451b-b4ee-49ea-bb39-467ae19beac9)
 
