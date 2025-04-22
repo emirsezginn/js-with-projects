@@ -29,7 +29,7 @@ Contributions are welcome! If you have any improvements, data, or projects to ad
 I'm Emirhan Sezgin, passionate about frontend development, always learning, building, and sharing knowledge.. 
 
 You can learn more about me and my work at:
-- **LinkedIn**: [Linkedin/emirhansezgin](www.linkedin.com/in/emirhan-sezgin)
+- **LinkedIn**: [Linkedin/emirhansezgin](https://www.linkedin.com/in/emirhan-sezgin/)
 - **GitHub**: [github.com/emirsezginn](https://github.com/emirsezginn)
 - **Medium**: [medium.com/emirhansezgin](https://medium.com/@sezginemirhan29)
 

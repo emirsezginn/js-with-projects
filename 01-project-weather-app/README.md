@@ -1,7 +1,7 @@
 <h1 align="center">
 🤖WEATHER APP🚀
 </h1>
-<p align="center">Live: (https://es-weather-appp.netlify.app/)</p>
+<p align="center">Live: (https://es-weatherr-app.netlify.app/)</p>
 
 ![image](https://github.com/user-attachments/assets/767b5f6f-eb85-4c94-b8ea-33a3a0dc0e4c)
 
