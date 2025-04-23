@@ -4,8 +4,8 @@ const chatbox = document.querySelector(".chatbox");
 const chatbotToggler = document.querySelector(".chatbot-toggler");
 const chatbotCloseBtn = document.querySelector(".close-btn ");
 
-const API_KEY = "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";
-const ACTIVE_MODEL = "deepseek/deepseek-chat-v3-0324:free"; // Çalışan alternatif model
+const API_KEY = "your openrouter api is here";
+const ACTIVE_MODEL = "deepseek/deepseek-chat-v3-0324:free"; 
 const inputHeight = chatInput.scrollHeight;
 
 const createChatLi = (message, className) => {
@@ -76,7 +76,7 @@ chatbotToggler.addEventListener("click", () => document.body.classList.toggle("s
 
 chatbotCloseBtn.addEventListener("click", () => document.body.classList.remove("show-chatbot"))
 
-// Event Listeners
+
 sendChatBtn.addEventListener("click", handleChat);
 chatInput.addEventListener("keypress", (e) => {
     if (e.key === "Enter" && !e.shiftKey) {
