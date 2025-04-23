@@ -1,4 +1,4 @@
-const apiKey = "your api is here";  //you can use openweathermap api
+const apiKey = "your api is here";  //you can use openweathermap api (current weather apı)
 const apiUrl = "https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
 
 const searchBox = document.querySelector(".search input");
