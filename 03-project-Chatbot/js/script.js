@@ -4,7 +4,7 @@ const chatbox = document.querySelector(".chatbox");
 const chatbotToggler = document.querySelector(".chatbot-toggler");
 const chatbotCloseBtn = document.querySelector(".close-btn ");
 
-const API_KEY = "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";
+const API_KEY = "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";
 const ACTIVE_MODEL = "deepseek/deepseek-chat-v3-0324:free"; // Çalışan alternatif model
 const inputHeight = chatInput.scrollHeight;
 
