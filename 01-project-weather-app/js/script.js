@@ -1,5 +1,5 @@
 const apiKey = "your api is here";  //you can use openweathermap api (current weather apı)
-const apiUrl = "https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
+const apiUrl = "https://api.openweathermap.org/data/2.5/weather?units=metric&q="; // Enter your full url like this
 
 const searchBox = document.querySelector(".search input");
 const searchBtn = document.querySelector(".search button");
