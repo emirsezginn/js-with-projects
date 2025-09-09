@@ -1,5 +1,5 @@
 <h1 align="center">
-🤖Aİ Chatbor🚀
+🤖Aİ Chatbot🚀
 </h1>
 <p align="center">Live: (https://es-chatbot-ai.netlify.app/)</p>
 
