@@ -4,7 +4,7 @@ const chatbox = document.querySelector(".chatbox");
 const chatbotToggler = document.querySelector(".chatbot-toggler");
 const chatbotCloseBtn = document.querySelector(".close-btn ");
 
-const API_KEY = "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";
+const API_KEY = "YOUR_API_KEY";
 const MODELS = [
     "google/gemma-2-9b-it:free",  // İlk dene
     "deepseek/deepseek-chat-v3-0324:free",
