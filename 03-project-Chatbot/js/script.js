@@ -6,10 +6,13 @@ const chatbotCloseBtn = document.querySelector(".close-btn ");
 
 const API_KEY = "YOUR_API_KEY";
 const MODELS = [
-    "google/gemma-2-9b-it:free",  // İlk dene
-    "deepseek/deepseek-chat-v3-0324:free",
-    "meta-llama/llama-3.1-8b-instruct:free",
-    "qwen/qwen-2-7b-instruct:free"
+    "minimax/minimax-m2:free",
+  "meta-llama/llama-3.1-8b-instruct:free",
+  "deepseek/deepseek-coder:free",
+  "phi-3/medium-128k:free",
+  "mistralai/mistral-7b-instruct:free",
+  "qwen/qwen-2.5-7b-instruct:free",
+  "openchat/openchat-7b:free"
 ];
 let currentModelIndex = 0; 
 const inputHeight = chatInput.scrollHeight;
